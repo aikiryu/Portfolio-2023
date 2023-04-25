@@ -273,7 +273,7 @@ header .gnb li button:hover{
     width: 180px; height: 180px;
     border-radius: 100%;
 
-    background-image: url(../img/aboutme/profile_200.jpg);
+    background-image: url(../img/profile_200.jpg);
     background-size: cover;
 }
 /* INTRODUCE */
